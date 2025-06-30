@@ -1,74 +1,85 @@
-# 👋 Hi, I am Tanmay Nihal Harwani
+<!-- Profile README for Tanmay Harwani (github.com/Tanmay-Harwani) -->
 
-🎓 Master’s in Applied Data Analytics @ Boston University (Dec 2025)  
-📍 Based in Boston, MA — Open to relocate  
-🚀 Aiming for full time Data Science / AI roles — Fall 2025 Start
+<h1 align="center">Hi, I’m Tanmay Nihal Harwani 👋</h1>
+
+<p align="center">
+  🎓 Master’s in Applied Data Analytics @ Boston University (Dec 2025) • 📍 Boston, MA  
+  <br/>
+  🧠 Focused on Data Science, ML, NLP & AI Applications
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tanmay-Harwani"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Tanmay-Harwani?style=social"></a>
+  <a href="mailto:tanmay22@bu.edu"><img alt="Email" src="https://img.shields.io/badge/email-tanmay22@bu.edu-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/tanmay-harwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Tanmay-Harwani&label=Profile+Views&color=blue" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am a data science enthusiast with experience in building machine learning pipelines, NLP applications, and interactive dashboards. I enjoy creating tools that make data useful, understandable, and actionable.
+I'm a data science practitioner blending business impact with machine learning, NLP, and clean dashboards. I love turning messy data into useful tools.
 
-- 🧪 Worked as a **Data Science Consultant** at Reliance Retail
-- 🧠 Building AI apps using **LLMs**, **recommendation systems**, and **Streamlit**
-- 📊 Strong at transforming messy data into clean insights for business and users
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [Chore Scheduler + AI Reminders](https://github.com/Tanmay-Harwani)
-*ML-based task scheduler + LLM-powered reminder system*  
-→ Predicts task compliance and sends reminders via GPT  
-Tech: Python, Streamlit, Sklearn, HuggingFace
-
-### 🔹 [Crypto Sentiment Dashboard](https://github.com/Tanmay-Harwani)
-*FinBERT-based news sentiment classifier for crypto market*  
-→ Scrapes news, scores sentiment, and visualizes in real time  
-Tech: NLP, Transformers, Streamlit, APIs
-
-### 🔹 [Genre Prediction from Lyrics](https://github.com/Tanmay-Harwani)
-*Predicts music genre using lyrics via TF-IDF + Naive Bayes*  
-→ Deployed with interactive lyric input  
-Tech: NLP, Naive Bayes, Scikit-learn, Streamlit
+- 🚀 Ex-**Data Science Consultant** at Reliance Retail
+- 💬 Built end-to-end solutions with AWS Personalize, Redshift, Airflow
+- 🛠️ Building tools with **Streamlit**, **LLMs**, and **Python**
+- 🌍 Open to full-time DS/ML roles globally — Fall 2025
 
 ---
 
-## 🛠️ Tools & Skills
+## ⚒️ Tech Stack
 
-**Languages:** Python, SQL, R  
-**ML/NLP:** Scikit-learn, Hugging Face, Pandas, NumPy, FinBERT  
-**Deployment:** Streamlit, AWS (S3, Redshift, Personalize), Airflow  
-**Data Viz:** Power BI, Tableau, Excel, Streamlit  
-**Soft Skills:** Communication, Teamwork, Stakeholder Collaboration
-
----
-
-## 📫 Let’s Connect
-
-📧 Email: [tanmay22@bu.edu](mailto:tanmay22@bu.edu)  
-💼 [LinkedIn](https://www.linkedin.com/in/tanmay-harwani/)  
-🐙 [GitHub](https://github.com/Tanmay-Harwani)
+| Skills & Tools | Description |
+|----------------|-------------|
+| **Languages** | Python, SQL, R |
+| **ML/NLP** | scikit-learn, FinBERT, Transformers, Hugging Face, XGBoost |
+| **Data Engineering** | Airflow, AWS (S3, Redshift, Personalize), MongoDB |
+| **Visualization** | Streamlit, Tableau, Power BI, Excel |
+| **Deployment** | Streamlit, APIs, Git |
+| **Soft Skills** | Communication, Storytelling, Stakeholder Collaboration |
 
 ---
 
-_Thanks for stopping by!_
+## 🚀 Featured Projects
 
-> “The goal is to turn data into insight, and insight into impact.”
+### 🧹 [Chore Scheduler + AI Reminders](https://github.com/Tanmay-Harwani)
+> Task optimization system with ML-based scheduling & GPT reminders  
+Tech: Scikit-learn • Pandas • Streamlit • Prompt Engineering
 
+---
 
-<!--
-**Tanmay-Harwani/Tanmay-Harwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 [Crypto Sentiment Dashboard](https://github.com/Tanmay-Harwani)
+> FinBERT-powered NLP tool analyzing real-time crypto market sentiment  
+Tech: Transformers • API Ingestion • Streamlit • Sentiment Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎶 [Genre Predictor from Lyrics](https://github.com/Tanmay-Harwani)
+> Predicts genre using TF-IDF + Naive Bayes based on user-input lyrics  
+Tech: NLP • Scikit-learn • Streamlit
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Harwani&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Harwani&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 [tanmay22@bu.edu](mailto:tanmay22@bu.edu)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-harwani/)  
+- 🌐 [GitHub](https://github.com/Tanmay-Harwani)
+
+---
+
+> “The goal is to turn data into insight — and insight into impact.”
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
