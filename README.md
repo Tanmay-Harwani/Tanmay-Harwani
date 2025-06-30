@@ -1,6 +1,6 @@
 <!-- Profile README for Tanmay Harwani (github.com/Tanmay-Harwani) -->
 
-<h1 align="center">Hi, I’m Tanmay Nihal Harwani 👋</h1>
+<h1 align="center">Hi, I am Tanmay Nihal Harwani 👋</h1>
 
 <p align="center">
   🎓 Master’s in Applied Data Analytics @ Boston University (Dec 2025) • 📍 Boston, MA  
@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-I'm a data science practitioner blending business impact with machine learning, NLP, and clean dashboards. I love turning messy data into useful tools.
+I am a data science practitioner blending business impact with machine learning, NLP, and AI. I love turning messy data into useful tools.
 
 - 🚀 Ex-**Data Science Consultant** at Reliance Retail
 - 💬 Built end-to-end solutions with AWS Personalize, Redshift, Airflow
@@ -58,15 +58,6 @@ Tech: Transformers • API Ingestion • Streamlit • Sentiment Analysis
 ### 🎶 [Genre Predictor from Lyrics](https://github.com/Tanmay-Harwani)
 > Predicts genre using TF-IDF + Naive Bayes based on user-input lyrics  
 Tech: NLP • Scikit-learn • Streamlit
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Harwani&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Harwani&layout=compact&theme=radical" />
-</p>
 
 ---
 
