@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I’m a data science consultant turned builder. From deploying recommendation systems in production to creating LLM-backed apps, I’m passionate about making data tools people actually use.
+I am a Data Science and AI consultant. From deploying recommendation systems in production to creating LLM-backed apps, I am passionate about making data tools people actually use.
 
 - 🚀 Ex-**Data Science Consultant** at Reliance Retail  
 - 💬 Built end-to-end solutions with AWS Personalize, Redshift, Airflow  
@@ -67,14 +67,14 @@ I’m a data science consultant turned builder. From deploying recommendation sy
 
 - 🔨 Finalizing **AI Chore Planner** with LLM-based reminders + Streamlit UI  
 - 💬 Exploring **LangChain, RAG pipelines, and agentic workflows**  
-- 📚 Preparing for DS interviews: Python, SQL, system design  
+- 📚 Preparing for DS interviews: Python, SQL, Machine Learning 
 - ⚡ Building a portfolio website to showcase my work
 
 ---
 
 ## 🤝 Want to Chat?
 
-Open to full-time **Data Science** and **ML Engineer** roles (Fall 2025 start).  
+Open to full time **Data Science** and **ML Engineer** roles (Fall 2025 start).  
 If you're hiring, collaborating, or just vibing with my work — let’s talk!
 
 📧 [tanmay22@bu.edu](mailto:tanmay22@bu.edu)  
@@ -83,7 +83,7 @@ If you're hiring, collaborating, or just vibing with my work — let’s talk!
 
 ---
 
-> “The goal is to turn data into insight — and insight into impact.”
+> “The goal is to turn data into insight and insight into impact.”
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
