@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I am Tanmay Nihal Harwani 👋</h1>
 
 <p align="center">
-  🎓 Master’s in Applied Data Analytics @ Boston University (Dec 2025) • 📍 Boston, MA  
+  🎓 Master’s in Applied Data Analytics @ Boston University (Jan 2025) • 📍 San Jose, CA 
   <br/>
   Data Science | ML | Product | AI Applications
 </p>
