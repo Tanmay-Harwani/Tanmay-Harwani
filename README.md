@@ -39,7 +39,7 @@ I am a Data and AI Scientist. From deploying recommendation systems in productio
 
 ## 🚀 Featured Projects  
 
-### 🧹 [Chore Scheduler + AI Reminders](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)  
+### 🧹 [AI Chore Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)  
 > ML-based task planner with GPT reminders and compliance prediction  
 📍 Tech: RAG • scikit-learn • Streamlit • Prompt Engineering • Pandas  
 
