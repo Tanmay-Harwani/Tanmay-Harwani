@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I am Tanmay Nihal Harwani 👋</h1>
 
 <p align="center">
-  🎓 Master’s in Applied Data Analytics @ Boston University (Jan 2025) • 📍 San Jose, CA 
+  🎓 Master’s in Applied Data Analytics @ Boston University (Jan 2026) • 📍 San Jose, CA 
   <br/>
   Data Science | ML | Product | AI Applications
 </p>
@@ -23,8 +23,8 @@ I am a Data and AI Scientist. From deploying recommendation systems in productio
 
 - 🚀 Ex-**Data Scientist** at Reliance Retail  
 - 💬 Built end-to-end solutions with AWS Personalize
-- 🛠️ Building tools with **Streamlit**, **LLMs**, and **Python**  
-- 🌍 Open to full-time DS/ML roles globally — Fall 2025  
+- 🛠️ Building tools with **Streamlit**, **Langchain**, **LLMs**, and **Python**  
+- 🌍 Open to full-time roles in the Data and AI Space
 
 ---
 
@@ -39,9 +39,20 @@ I am a Data and AI Scientist. From deploying recommendation systems in productio
 
 ## 🚀 Featured Projects  
 
-### 🧹 [AI Chore Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)  
-> ML-based task planner with GPT reminders and compliance prediction  
-📍 Tech: RAG • scikit-learn • Streamlit • Prompt Engineering • Pandas  
+### 🌍 Build Fellowship — AI Disaster Intelligence System
+
+Production-grade AI pipeline combining satellite imagery, NLP summarization, and geospatial event detection
+📍 Tech: Transformers • Computer Vision • REST API • Streamlit • Python
+
+### 🚕 Urban Sentiment & Mobility Intelligence System
+
+Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals
+📍 Tech: PySpark • Random Forest • Sentiment Analysis • Matplotlib • Streamlit
+
+### 🧹 safAI — AI Chore Scheduling Assistant
+
+End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness maintenance
+📍 Tech: LangChain • Groq LLaMA-3.3-70b • HuggingFace • Supabase • Streamlit
 
 🔗 **Live App:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)  
 
