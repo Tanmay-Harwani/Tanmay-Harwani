@@ -44,10 +44,14 @@ I am a Data and AI Scientist. From deploying recommendation systems in productio
 Production-grade AI pipeline combining satellite imagery, NLP summarization, and geospatial event detection
 📍 Tech: Transformers • Computer Vision • REST API • Streamlit • Python
 
+---
+
 ### 🚕 Urban Sentiment & Mobility Intelligence System
 
 Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals
 📍 Tech: PySpark • Random Forest • Sentiment Analysis • Matplotlib • Streamlit
+
+---
 
 ### 🧹 safAI — AI Chore Scheduling Assistant
 
