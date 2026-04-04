@@ -37,30 +37,24 @@ I am a Data and AI Scientist. From deploying recommendation systems in productio
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🌍 Build Fellowship — AI Disaster Intelligence System
-
-Production-grade AI pipeline combining satellite imagery, NLP summarization, and geospatial event detection
+### 🌍 [Build Fellowship — AI Disaster Intelligence System](https://github.com/your-repo-link)
+> Production-grade AI pipeline combining satellite imagery, NLP summarization, and geospatial event detection
 📍 Tech: Transformers • Computer Vision • REST API • Streamlit • Python
 
 ---
 
-### 🚕 Urban Sentiment & Mobility Intelligence System
-
-Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals
+### 🚕 [Urban Sentiment & Mobility Intelligence System](https://github.com/your-repo-link)
+> Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals
 📍 Tech: PySpark • Random Forest • Sentiment Analysis • Matplotlib • Streamlit
 
 ---
 
-### 🧹 safAI — AI Chore Scheduling Assistant
-
-End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness maintenance
+### 🧹 [safAI — AI Chore Scheduling Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)
+> End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness maintenance
 📍 Tech: LangChain • Groq LLaMA-3.3-70b • HuggingFace • Supabase • Streamlit
-
-🔗 **Live App:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)  
-
-![Chore Scheduler Demo](https://github.com/Tanmay-Harwani/chore-scheduler/assets/demo.gif)  
+🔗 **Live App:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)
 
 ---
 
@@ -86,16 +80,15 @@ End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fair
 
 ## 🔄 Currently Working On  
 
-- 🔨 Finalizing **AI Chore Planner** with LLM based reminders + Streamlit UI  
+- 🔨 Finalizing **safAI()** with LLM based reminders + Streamlit UI  
 - 💬 Exploring **LangChain, RAG pipelines, and AI Agents**  
-- 📚 Preparing for DS interviews: Python, SQL, Machine Learning  
-- ⚡ Expanding my [portfolio website](https://portfolio-tanmay.lovable.app/) to showcase projects  
+- ⚡ Expanding my [portfolio website](https://portfolio-tanmay.lovable.app/) 
 
 ---
 
 ## 🤝 Want to Chat?  
 
-Open to full time **Data Science** and **ML Engineer** roles (Fall 2025 start).  
+Open to full time roles in the **AI Space**
 If you're hiring, collaborating, or just vibing with my work — let’s talk!  
 
 📧 [tanmay22@bu.edu](mailto:tanmay22@bu.edu)  
