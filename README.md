@@ -1,105 +1,102 @@
-<!-- Profile README for Tanmay Harwani (github.com/Tanmay-Harwani) -->
-
-<h1 align="center">Hi, I am Tanmay Nihal Harwani 👋</h1>
+<h1 align="center">Hi, I'm Tanmay 👋</h1>
 
 <p align="center">
-  🎓 Master’s in Applied Data Analytics @ Boston University (Jan 2026) • 📍 San Jose, CA 
+  🎓 MS in Applied Data Analytics @ Boston University • 📍 Boston, MA
   <br/>
-  Data Science | ML | Product | AI Applications
+  ML Engineer · Data Scientist · Applied AI
 </p>
 
 <p align="center">
   <a href="mailto:tanmay22@bu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-tanmay22@bu.edu-0078D4?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tanmay-harwani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0078D4?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-tanmay.lovable.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://portfolio-tanmay.lovable.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=vercel&logoColor=white"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Tanmay-Harwani&label=Profile+Views&color=0078D4&style=flat-square" />
 </p>
 
 ---
 
-##  About Me  
+## About Me
 
-I am a Data and AI Scientist. From deploying recommendation systems in production to creating LLM-backed apps, I am passionate about making data tools people actually use.
+I build production ML and AI systems — recommendation engines, LLM pipelines, and multi-agent applications that go beyond Jupyter notebooks and actually ship.
 
-- 🚀 Ex-**Data Scientist** at Reliance Retail  
-- 💬 Built end-to-end solutions with AWS Personalize
-- 🛠️ Building tools with **Streamlit**, **Langchain**, **LLMs**, and **Python**  
-- 🌍 Open to full-time roles in the Data and AI Space
+- 🛠 Ex-**Data Scientist** at **Reliance Retail (Zivame)** — built recommendation systems with AWS Personalize
+- 🚀 Currently building with **LangChain, RAG, and multi-agent systems**
+- 🎓 MS in Applied Data Analytics @ Boston University (GPA: 3.88)
+- 🌍 Open to ML Engineer, Data Scientist, and Applied AI roles in the US
 
 ---
 
-## ⚒️ Tech Stack  
+## ⚒️ Tech Stack
 
-**Languages:** Python, SQL, R  
-**ML/NLP:** scikit-learn, FinBERT, Hugging Face, Langchain, XGBoost  
-**Dashboards:** Streamlit, Tableau, Power BI, Excel  
-**Tools:** Git, APIs
+**Languages:** Python · SQL · R
+**ML / AI:** PyTorch · scikit-learn · XGBoost · Hugging Face · LangChain · LLMs · RAG · NLP
+**Cloud & Infra:** AWS (S3, Lambda, Personalize, Redshift) · Docker · Airflow · REST APIs · Cloudflare Pages
+**Data & Viz:** PySpark · Streamlit · Tableau · Power BI · Pandas · NumPy
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 [Build Fellowship — AI Disaster Intelligence System](https://github.com/your-repo-link)
-> Production-grade AI pipeline combining satellite imagery, NLP summarization, and geospatial event detection
-📍 Tech: Transformers • Computer Vision • REST API • Streamlit • Python
+### ⌨️ likhAI — Typing Practice for ML/AI Professionals
+> Full-stack MonkeyType-inspired typing practice app built for ML/AI/DS professionals. Includes per-keystroke telemetry, personalized analytics, a global leaderboard, and an LLM-powered content generation pipeline with automated evaluation stages.
+>
+> **Stack:** React · Supabase · PostgreSQL · LLM Content Pipeline · Cloudflare Pages
+> 🔗 **Live:** [https://likhai.pages.dev/] 
 
 ---
 
-### 🚕 [Urban Sentiment & Mobility Intelligence System](https://github.com/your-repo-link)
-> Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals
-📍 Tech: PySpark • Random Forest • Sentiment Analysis • Matplotlib • Streamlit
+### 🌍 Build Fellowship — AI Disaster Intelligence System
+> Selected as 1 of 7 fellows from 700+ applicants to build a production-grade AI disaster intelligence pipeline.
+> Combines satellite imagery, transformer-based NLP summarization, and geospatial event detection.
+>
+> **Stack:** Transformers · Computer Vision · NASA GIBS · REST API · Streamlit · Python
+> **Repo:** [https://github.com/Tanmay-Harwani/buildfellowship-march2026]
 
 ---
-
 ### 🧹 [safAI — AI Chore Scheduling Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)
-> End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness maintenance
-📍 Tech: LangChain • Groq LLaMA-3.3-70b • HuggingFace • Supabase • Streamlit
-🔗 **Live App:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)
+> End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness-aware task allocation.
+>
+> **Stack:** LangChain · Groq LLaMA-3.3-70b · HuggingFace MiniLM · Supabase · Streamlit
+> 🔗 **Live:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)
 
 ---
 
-### 🧠 [Crypto Sentiment Dashboard](https://github.com/Tanmay-Harwani/crypto-dashboard)  
-> Real-time NLP dashboard using FinBERT to classify crypto news sentiment  
-📍 Tech: Transformers • Streamlit • APIs • NLP  
-
-🔗 **Live App:** [crypto-news-sentiment-analysis-tool.streamlit.app](https://crypto-news-sentiment-analysis-tool.streamlit.app/)  
-
-![Crypto Sentiment Demo](https://github.com/Tanmay-Harwani/crypto-dashboard/assets/demo.gif)  
+### 🚕 Urban Sentiment & Mobility Intelligence System
+> Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals. Achieved R² ≈ 0.94, RMSE ≈ 0.075.
+>
+> **Stack:** PySpark · Random Forest · Sentiment Analysis · Streamlit
+> **Repo:** [https://github.com/saurabhdipte/METCS-777-Term-Project-Group5]
 
 ---
 
-### 🎶 [Genre Predictor from Lyrics](https://github.com/Tanmay-Harwani/genre-predictor)  
-> Predicts song genre using lyrics via TF-IDF + Naive Bayes  
-📍 Tech: NLP • Scikit-learn • Streamlit  
-
-🔗 **Live App:** [genre-prediction-smart-tool.streamlit.app](https://genre-prediction-smart-tool.streamlit.app/)  
-
-![Genre Predictor Demo](https://github.com/Tanmay-Harwani/genre-predictor/assets/demo.gif)  
+### 🧠 [Crypto News Sentiment Dashboard](https://github.com/Tanmay-Harwani/Crypto-News-Sentiment-Analysis-Tool)
+> Real-time NLP dashboard using FinBERT to classify crypto news as bullish, neutral, or bearish across 1k+ articles. Lowered inference latency by 20%, boosted F1 by 0.07.
+>
+> **Stack:** FinBERT · Transformers · Streamlit · NLP
+> 🔗 **Live:** [crypto-news-sentiment-analysis-tool.streamlit.app](https://crypto-news-sentiment-analysis-tool.streamlit.app/)
 
 ---
 
-## 🔄 Currently Working On  
-
-- 🔨 Finalizing **safAI()** with LLM based reminders + Streamlit UI  
-- 💬 Exploring **LangChain, RAG pipelines, and AI Agents**  
-- ⚡ Expanding my [portfolio website](https://portfolio-tanmay.lovable.app/) 
-
----
-
-## 🤝 Want to Chat?  
-
-Open to full time roles in the **AI Space**
-If you're hiring, collaborating, or just vibing with my work — let’s talk!  
-
-📧 [tanmay22@bu.edu](mailto:tanmay22@bu.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-harwani/)  
-🐙 [GitHub](https://github.com/Tanmay-Harwani)  
-🌐 [Portfolio Website](https://portfolio-tanmay.lovable.app/)  
+### 🎶 [Genre Predictor from Lyrics](https://github.com/Tanmay-Harwani/Genre-Prediction-Smart-Tool)
+> Predicts song genre from lyrics using TF-IDF and Naive Bayes classification.
+>
+> **Stack:** NLP · Scikit-learn · Streamlit
+> 🔗 **Live:** [genre-prediction-smart-tool.streamlit.app](https://genre-prediction-smart-tool.streamlit.app/)
 
 ---
 
-> “The goal is to turn data into insight and insight into impact.”  
+## 🔄 Currently Working On
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+- 🔨 Production-grade **RAG pipeline** — full ingestion, retrieval, and evaluation stack
+- 🤖 Expanding **safAI** with LLM-based reminders and multi-agent task delegation
+- 🌐 Iterating on my [portfolio website](https://portfolio-tanmay.lovable.app/)
+
+---
+
+## 🤝 Let's Connect
+
+Open to ML Engineer, Data Scientist, and Applied AI roles in the US.
+
+📧 [tanmay22@bu.edu](mailto:tanmay22@bu.edu)
+🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-harwani/)
+🌐 [Portfolio](https://portfolio-tanmay.lovable.app/)
