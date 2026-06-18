@@ -37,51 +37,48 @@ I build production ML and AI systems — recommendation engines, LLM pipelines, 
 
 ## 🚀 Featured Projects
 
-### ⌨️ likhAI — Typing Practice for ML/AI Professionals
+### ⌨️ [likhAI — Typing Practice for ML/AI Professionals](https://likhai.pages.dev/)
 > Full-stack MonkeyType-inspired typing practice app built for ML/AI/DS professionals. Includes per-keystroke telemetry, personalized analytics, a global leaderboard, and an LLM-powered content generation pipeline with automated evaluation stages.
 >
 > **Stack:** React · Supabase · PostgreSQL · LLM Content Pipeline · Cloudflare Pages
-> 🔗 **Live:** [https://likhai.pages.dev/] 
 
 ---
 
-### 🌍 Build Fellowship — AI Disaster Intelligence System
-> Selected as 1 of 7 fellows from 700+ applicants to build a production-grade AI disaster intelligence pipeline.
-> Combines satellite imagery, transformer-based NLP summarization, and geospatial event detection.
+### 🌍 [Build Fellowship — AI Disaster Intelligence System](https://github.com/Tanmay-Harwani/buildfellowship-march2026)
+> Selected as 1 of 7 fellows from 700+ applicants to build a production-grade AI disaster intelligence pipeline. Combines satellite imagery, transformer-based NLP summarization, and geospatial event detection.
 >
 > **Stack:** Transformers · Computer Vision · NASA GIBS · REST API · Streamlit · Python
-> **Repo:** [https://github.com/Tanmay-Harwani/buildfellowship-march2026]
 
 ---
-### 🧹 [safAI — AI Chore Scheduling Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)
+
+### 🧹 [safAI — AI Chore Scheduling Assistant](https://ai-chore-assistant.streamlit.app/)
 > End-to-end RAG pipeline with LLM-generated schedules, vector retrieval, and fairness-aware task allocation.
 >
 > **Stack:** LangChain · Groq LLaMA-3.3-70b · HuggingFace MiniLM · Supabase · Streamlit
-> 🔗 **Live:** [ai-chore-assistant.streamlit.app](https://ai-chore-assistant.streamlit.app/)
+> 🐙 **Repo:** [github.com/Tanmay-Harwani/AI-Chore-Assistant](https://github.com/Tanmay-Harwani/AI-Chore-Assistant)
 
 ---
 
-### 🚕 Urban Sentiment & Mobility Intelligence System
+### 🚕 [Urban Sentiment & Mobility Intelligence System](https://github.com/saurabhdipte/METCS-777-Term-Project-Group5)
 > Predicts NYC congestion from 40M taxi records using weather and Twitter sentiment signals. Achieved R² ≈ 0.94, RMSE ≈ 0.075.
 >
 > **Stack:** PySpark · Random Forest · Sentiment Analysis · Streamlit
-> **Repo:** [https://github.com/saurabhdipte/METCS-777-Term-Project-Group5]
 
 ---
 
-### 🧠 [Crypto News Sentiment Dashboard](https://github.com/Tanmay-Harwani/Crypto-News-Sentiment-Analysis-Tool)
+### 🧠 [Crypto News Sentiment Dashboard](https://crypto-news-sentiment-analysis-tool.streamlit.app/)
 > Real-time NLP dashboard using FinBERT to classify crypto news as bullish, neutral, or bearish across 1k+ articles. Lowered inference latency by 20%, boosted F1 by 0.07.
 >
 > **Stack:** FinBERT · Transformers · Streamlit · NLP
-> 🔗 **Live:** [crypto-news-sentiment-analysis-tool.streamlit.app](https://crypto-news-sentiment-analysis-tool.streamlit.app/)
+> 🐙 **Repo:** [github.com/Tanmay-Harwani/Crypto-News-Sentiment-Analysis-Tool](https://github.com/Tanmay-Harwani/Crypto-News-Sentiment-Analysis-Tool)
 
 ---
 
-### 🎶 [Genre Predictor from Lyrics](https://github.com/Tanmay-Harwani/Genre-Prediction-Smart-Tool)
+### 🎶 [Genre Predictor from Lyrics](https://genre-prediction-smart-tool.streamlit.app/)
 > Predicts song genre from lyrics using TF-IDF and Naive Bayes classification.
 >
 > **Stack:** NLP · Scikit-learn · Streamlit
-> 🔗 **Live:** [genre-prediction-smart-tool.streamlit.app](https://genre-prediction-smart-tool.streamlit.app/)
+> 🐙 **Repo:** [github.com/Tanmay-Harwani/Genre-Prediction-Smart-Tool](https://github.com/Tanmay-Harwani/Genre-Prediction-Smart-Tool)
 
 ---
 
